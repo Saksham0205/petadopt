@@ -265,14 +265,6 @@ We welcome contributions! Please follow these guidelines:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
-
-- **Flutter Team**: For the incredible framework and tools
-- **Material Design**: For comprehensive design system guidance
-- **Open Source Community**: For the amazing packages and libraries
-- **Pet Shelters**: For inspiration and the important work they do
-- **Unsplash**: For providing beautiful pet photography
-
 ---
 
 **Made with ❤️ for pets and their future families**
